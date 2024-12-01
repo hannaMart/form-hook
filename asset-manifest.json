@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/form-hook/static/css/main.67aefb9a.css",
+    "main.js": "/form-hook/static/js/main.3e9e7f98.js",
+    "index.html": "/form-hook/index.html",
+    "main.67aefb9a.css.map": "/form-hook/static/css/main.67aefb9a.css.map",
+    "main.3e9e7f98.js.map": "/form-hook/static/js/main.3e9e7f98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67aefb9a.css",
+    "static/js/main.3e9e7f98.js"
+  ]
+}
